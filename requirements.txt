@@ -1,1 +1,4 @@
-/workspaces/fakechats/fake-chats.zip
+kurigram
+tgcrypto
+asyncio
+httpx
