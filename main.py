@@ -75,7 +75,7 @@ async def main():
             api_hash=config.API_HASH,
             session_string=session,
             in_memory=True,
-            no_updates=True 
+            no_updates=(i != 0)
         )
         all_clients.append(client)
         
